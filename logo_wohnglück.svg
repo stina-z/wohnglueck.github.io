@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 177.36 49.99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6aa46a;
+        font-family: Verdana, Verdana;
+        font-size: 15px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #6aa46a;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        letter-spacing: -.05em;
+      }
+    </style>
+  </defs>
+  <line class="cls-2" x1=".52" y1="19.01" x2=".52" y2="44.69"/>
+  <line class="cls-2" x1="83.83" y1="44.2" x2=".31" y2="44.2"/>
+  <line class="cls-2" x1=".31" y1="19.36" x2="24.3" y2=".39"/>
+  <line class="cls-2" x1="47.38" y1="19.19" x2="23.6" y2=".39"/>
+  <text class="cls-1" transform="translate(7.7 25.29)"><tspan x="0" y="0">Büro </tspan><tspan class="cls-3" x="0" y="14">W</tspan><tspan x="14.1" y="14">ohnglück</tspan></text>
+</svg>
